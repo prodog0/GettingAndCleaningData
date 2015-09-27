@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: "Getting and Cleaning Data"
 author: "prodog"
@@ -47,7 +46,3 @@ with "std" or "mean" so they were removed.
 
 
 
-=======
-# GettingAndCleaningData
-Getting and Cleaning Data Project
->>>>>>> 0945def5fb96be5e64235b78677edb94ae4b2b3a
