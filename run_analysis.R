@@ -77,7 +77,7 @@ sample_data <- merge(sample_data, activity_labels, by.x="activity",
                      y.y="V2", all.x=TRUE)
 
 ## write the tidy data out to file      
-write.table(sample_data, file = "tidy_sample_data.txt", sep=",")
+## write.table(sample_data, file = "tidy_sample_data.txt", sep=",")
 
 ## group by the subject and activity to find the mean of each column
 summary_data <- sample_data %>%
